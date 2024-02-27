@@ -5,7 +5,7 @@ git init
 git config --global user.name "Professor Lozano"
 
 --comando para atualizar o email do usuario(sao apenas infs locais)
-git config --global user.email "exemploLozabo@gmail.com"
+git config --global user.email "exemploLozano@gmail.com"
 
 --alterar branch master para main
 git branch -m master main
@@ -29,5 +29,9 @@ git log
 git reset --hard iddocommit
 
 git reset --hard head-1 (volta uma versao, -2 volta duas versoes...) 
+
+--git clone endereço de repositorio
+--git remote( o proprio github gera esse comando quando criamos o repositorio)
+--git push -u origin  
 
 
