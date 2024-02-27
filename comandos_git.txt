@@ -32,6 +32,8 @@ git reset --hard head-1 (volta uma versao, -2 volta duas versoes...)
 
 --git clone endereço de repositorio
 --git remote( o proprio github gera esse comando quando criamos o repositorio)
---git push -u origin  
+--git push -u origin( ele passa o repositorio da maquina para o git)
+--git pull ( ele pega o repositorio do git para a maquina
+
 
 
